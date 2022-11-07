@@ -1,8 +1,8 @@
 # Labelen van meergezinswoningen
-Script labelen meergezinswoningen - data adressen Informatie Vlaanderen - Reginald Carlier
+Script labelen meergezinswoningen - data adressen Informatie Vlaanderen <br>
+*script van Reginald Carlier, GIS deskundige Ingelmunster*
 
 Dit script maakt een label waarop de bussen op de verschillende verdiepingen gerangschikt worden volgens verdiep
-
 mgz_straathuisnr is de tabel met uniek straathuisnr voor meergezinswoningen 
 deze tabel staat in een postgresql database. Het probleem dat zich stelde bij het gebruik van een geopackage of shapefile was
 dat deze steeds gelocked werden bij het wijzigen.
