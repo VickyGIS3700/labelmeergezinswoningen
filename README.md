@@ -1,4 +1,4 @@
-# labelmeergezinswoningen
+# Labelen van meergezinswoningen
 Script labelen meergezinswoningen - data adressen Informatie Vlaanderen - Reginald Carlier
 
 Dit script maakt een label waarop de bussen op de verschillende verdiepingen gerangschikt worden volgens verdiep
